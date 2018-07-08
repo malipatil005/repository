@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 580A-7688
+
+ Directory of C:\Users\Windows 7\Desktop\myproject
+
+07/08/2018  11:10 AM    <DIR>          .
+07/08/2018  11:10 AM    <DIR>          ..
+07/02/2018  12:06 PM                22 chandu.html
+07/08/2018  10:44 AM                32 patil.txt
+07/02/2018  12:05 PM                 9 text.txt
+07/08/2018  11:10 AM                 0 text2.txt
+               4 File(s)             63 bytes
+               2 Dir(s)  13,037,301,760 bytes free
